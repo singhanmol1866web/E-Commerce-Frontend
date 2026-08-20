@@ -3,7 +3,7 @@ import "./Contact.css"
 function Contact() {
   return (
     <div className='contact'>
-<form action="https://formspree.io/f/xzzzbvnl" method='POST'>
+<form action="https://formspree.io/f/mlgqoolk" method='POST'>
 <input type="text" placeholder='Enter Your Name...' name='username' required/>
 <input type="email" placeholder='Email' name='email' required/>
 <textarea name="message" placeholder='Message' required></textarea>
